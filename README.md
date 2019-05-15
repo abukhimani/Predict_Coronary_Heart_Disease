@@ -7,13 +7,21 @@ The motivation for this project was to indentify certain health, lifestyle, and 
 ### Data Source:
 - National Health and Nutrition Examination Survey (NHANES) data from 2015-2016.
 - Identified 36 features from the Demographics, Examination, and Questionnaire datasets
-- Target: if a survey participant was ever told by a healthcare professional that they had coronary heart disease (CHD) - this is one of the questions on the NHANES medical conditions questionnaire
+- **Target: if a survey participant was ever told by a healthcare professional that they had coronary heart disease (CHD) - this is one of the questions on the NHANES medical conditions questionnaire**
 - Segmented data to only include adults between the age group of 18-65
 
+
 ### Identified 36 Feature Questions from NHANES datasets:
+
 ![alt text](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/36-features.png)
 
 
+### Class Imbalance
+Cleaned data included:
+ - 80 positive cases (participant was told they had CHD)
+ - 4343 negative cases (no CHD)
+ 
+ 
 
 
 
