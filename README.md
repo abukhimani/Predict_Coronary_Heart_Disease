@@ -17,12 +17,13 @@ The motivation for this project was to indentify certain health, lifestyle, and 
 ![Features](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/36-features.png)
 
 
-### Class Imbalance
+### Class Imbalance:
 Cleaned data included:
  - 80 positive cases (participant was told they had CHD)
  - 4343 negative cases (no CHD)
  
-### Best Model: Logistic Regression w/ Parameter Tuning
+ 
+### Best Model: Logistic Regression w/ Parameter Tuning:
 
 ![Best Model](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/Best_Model.png)
 
@@ -30,6 +31,27 @@ Cleaned data included:
 **Recall score of 0.73**
 
 
+**Feature Importance:**
+
+![Feature Importance](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/Best_Model_Feature_Importance.png)
+
+
+### Other Models Explored:
+
+![Other Models Explored](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/KNN_Random_Forest.png)
+
+
+### All Models w/ PCA on Features:
+
+![All Models w PCA](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/All_Models_w_PCA.png)
+
+
+### Next Steps:
+ - Get additional data from previous years
+
+ - Explore using additional features to include in model building
+
+ - Use a model to fill missing values
 
 
 
