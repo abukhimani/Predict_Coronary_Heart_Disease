@@ -11,9 +11,10 @@ The motivation for this project was to indentify certain health, lifestyle, and 
 - Segmented data to only include adults between the age group of 18-65
 
 
+
 ### Identified 36 Feature Questions from NHANES datasets:
 
-![alt text](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/36-features.png)
+![Features](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/36-features.png)
 
 
 ### Class Imbalance
@@ -21,7 +22,14 @@ Cleaned data included:
  - 80 positive cases (participant was told they had CHD)
  - 4343 negative cases (no CHD)
  
- 
+### Best Model: Logistic Regression w/ Parameter Tuning
+
+![Best Model](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/Best_Model.png)
+
+
+**Recall score of 0.73**
+
+
 
 
 
