@@ -10,5 +10,10 @@ The motivation for this project was to indentify certain health, lifestyle, and 
 - Target: if a survey participant was ever told by a healthcare professional that they had coronary heart disease (CHD) - this is one of the questions on the NHANES medical conditions questionnaire
 - Segmented data to only include adults between the age group of 18-65
 
+### Identified 36 Feature Questions from NHANES datasets:
+![alt text](https://github.com/abukhimani/Predict_Coronary_Heart_Disease/blob/master/imgs/36-features.png)
+
+
+
 
 
